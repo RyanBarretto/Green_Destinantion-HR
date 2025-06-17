@@ -51,4 +51,4 @@ The dataset used is a simulated HR dataset with 1,470 records and 35 features, i
 
 
 
-![image alt](https://github.com/RyanBarretto/Green_Destinantion-/blob/main/Green_Destination_ss.png?raw=true)
+![image alt](https://github.com/RyanBarretto/Green_Destinantion-HR/blob/main/G_D_PBI.png?raw=true)
